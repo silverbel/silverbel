@@ -1,5 +1,5 @@
 👋 Hi there~ I`m **java** developer:)
-  * 2018.03 ~ 2021.06 GS ITM 🐟 
+  * <span style="color:red">2018.03 ~ 2021.06</span> GS ITM 🐟 
   * 2021.07 ~ CJ OliveYoung  🐤
 
 ### :muscle:Skills
