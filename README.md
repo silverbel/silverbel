@@ -1,6 +1,6 @@
 👋 Hi there~ I`m **java** developer :)
-  * 2018.03 ~ 2021.06  GS ITM 🐟 
   * 2021.07 ~          CJ OliveYoung  🐤
+  * 2018.03 ~ 2021.06  GS ITM 🐟 
 
 ### :muscle:Skills
 
