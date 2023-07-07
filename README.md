@@ -6,18 +6,18 @@
 
 #### Platforms & Languages
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=flat-square&logo=Apache Cassandra&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=for-the-badge&logo=Apache Cassandra&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
  
-<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/AmazonSQS-FF4F8B?style=flat-square&logo=AmazonSQS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AmazonSQS-FF4F8B?style=for-the-badge&logo=AmazonSQS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ApacheKafKa-231F20?style=flat-square&logo=ApacheKafKa&logoColor=white"/>
+<img src="https://img.shields.io/badge/ApacheKafKa-231F20?style=for-the-badge&logo=ApacheKafKa&logoColor=white"/>
 
  
 #### Tools
